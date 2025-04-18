@@ -26,7 +26,7 @@ A **React-based user management system** that allows users to manage their profi
 -   Users can:
     -   **Edit and update** their profile details (name and email).
     -   **Delete their profile** with confirmation.
-    -   **Note** - After updating or deleting data, the original values are restored because the mock API resets the changes. This behavior is due
+    -   **Note** - After updating or deleting data, the original values are restored because the mock API resets the changes. This behavior is due to the limitations of the mock API and is not an issue with the frontend implementation.
 
 ### 🔍 **Search & Pagination**
 
