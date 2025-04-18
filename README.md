@@ -6,7 +6,7 @@ A **React-based user management system** that allows users to manage their profi
 
 ## 🌐 Deployment
 
--   **Live Deployment**: [Live Link](https://your-frontend-link.vercel.app)
+-   **Live Deployment**: [Live Link](https://user-management-system-wheat.vercel.app)
 
 ---
 
@@ -26,6 +26,7 @@ A **React-based user management system** that allows users to manage their profi
 -   Users can:
     -   **Edit and update** their profile details (name and email).
     -   **Delete their profile** with confirmation.
+    -   **Note** - After updating or deleting data, the original values are restored because the mock API resets the changes. This behavior is due
 
 ### 🔍 **Search & Pagination**
 
@@ -62,7 +63,7 @@ A **React-based user management system** that allows users to manage their profi
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/devanshgupta08/user-management-system
 
 ```
 
